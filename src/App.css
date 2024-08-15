@@ -1,0 +1,15 @@
+.main {
+  width: 100%;
+  height: 100vh;
+  background-image: url("/public/97f154adfd88d0e48d9a7fc87e5ab035.jfif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.montsrt {
+  font-family: "Montserrat";
+}
+
+.roboto {
+  font-family: "Roboto";
+}
